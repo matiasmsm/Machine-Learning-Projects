@@ -8,6 +8,7 @@
   - Openspiel framework (Multi-agent) (Template)
   - Repast toolkit (Multi-agent) (Template)
   - Coach framework (Multi-agent) (Template)
+  - Stock trading
 
 ## Natural Language Processing:
   - Bert template (Template)
