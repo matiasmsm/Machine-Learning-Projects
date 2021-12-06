@@ -20,4 +20,6 @@
 ## Other:
   - Diamond price predictor (Personal project)
   - Deep Q Learning Government (Personal project) (Under development)
+
+
 ![ai_knowledge_map](https://user-images.githubusercontent.com/20389726/144912039-5425e913-f88c-4ed2-a99f-d1ef6d342b62.jpeg)
