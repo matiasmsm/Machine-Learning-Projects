@@ -1,6 +1,6 @@
-Machine Learning personal projects and tutorials
+#Machine Learning personal projects and tutorials
 
-Reinforcement Learning:
+##Reinforcement Learning:
   - Acme framework (Multi-agent)(Template)
   - Cartpole Deep Q Learning (Template)
   - MAgent framework (Multi-agent) (Template)
@@ -9,13 +9,13 @@ Reinforcement Learning:
   - Repast toolkit (Multi-agent) (Template)
   - Coach framework (Multi-agent) (Template)
 
-Natural Language Processing:
+##Natural Language Processing:
   - Bert template (Template)
   - Spacy tutorial (Template)
 
-Computer vision:
+##Computer vision:
   - Emotion recognition (Personal project)
 
-Other:
+##Other:
   - Diamond price predictor (Personal project)
   - Deep Q Learning Government (Personal project) (Under development)
