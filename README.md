@@ -1,13 +1,13 @@
 Machine Learning personal projects and tutorials
 
 Reinforcement Learning:
-  - Acme framework (Template)
+  - Acme framework (Multi-agent)(Template)
   - Cartpole Deep Q Learning (Template)
-  - MAgent framework (Template)
-  - OpenAI SpinningUp tutorial (Template)
-  - Openspiel framework (Template)
-  - Repast toolkit (Template)
-  - Coach framework (Template)
+  - MAgent framework (Multi-agent) (Template)
+  - OpenAI SpinningUp tutorial (Multi-agent) (Template)
+  - Openspiel framework (Multi-agent) (Template)
+  - Repast toolkit (Multi-agent) (Template)
+  - Coach framework (Multi-agent) (Template)
 
 Natural Language Processing:
   - Bert template (Template)
