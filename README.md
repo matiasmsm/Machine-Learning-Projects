@@ -13,6 +13,8 @@
 ## Natural Language Processing:
   - Bert template (Template)
   - Spacy tutorial (Template)
+  - FinTech news compiler https://github.com/MatiasMingo/FinTech-News-Compiler
+  - Bug https://github.com/MatiasMingo/Bug
 
 ## Computer vision:
   - Emotion recognition (Personal project)
