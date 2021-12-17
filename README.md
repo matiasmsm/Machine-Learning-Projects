@@ -11,6 +11,7 @@
   - Single stock trading
 
 ## Natural Language Processing:
+  - BERT Textbook summarization
   - Bert template (Template)
   - Spacy tutorial (Template)
   - FinTech news compiler https://github.com/MatiasMingo/FinTech-News-Compiler
